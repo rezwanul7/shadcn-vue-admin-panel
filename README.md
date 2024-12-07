@@ -1,5 +1,7 @@
 <!-- installation shadecn component-->
-
+```shell
+php artisan migrate:fresh --seed
+```
 1.avatar
 2.breadcrumb
 3.collapsible
